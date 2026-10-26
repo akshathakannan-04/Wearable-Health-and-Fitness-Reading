@@ -1,3 +1,5 @@
+Website : https://wearable-health-and-fitness-reading-t5bdweqfxerdjvbv4ydkcn.streamlit.app/
+
 # Wearable Health Analytics & Fitness Readiness Dashboard
 
 An end-to-end Python Data Science and Machine Learning ecosystem project that synthesizes wearable biometric time series, computes leakage-free rolling physiological features, evaluates a transparent multi-component Fitness Readiness Score (0–100), benchmarks regression models (Random Forest vs. XGBoost) using chronological evaluation, and serves an interactive web dashboard using Streamlit and Plotly.
